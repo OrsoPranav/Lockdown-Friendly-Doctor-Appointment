@@ -10,7 +10,7 @@ Features
   4. Tkinter GUI: Provides an intuitive graphical interface for users to input their details and interact with the system.
 
 Prerequisites
-  Before running the application, ensure you have the following installed:
+  Before running the application, ensure you have the following installed
     1. Python 3.x
     2. MySQL Server
     3. Required Python packages (mysql-connector-python, requests, tkinter)
