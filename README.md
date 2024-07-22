@@ -11,6 +11,7 @@ Features
 
 Prerequisites
   Before running the application, ensure you have the following installed
+  
     1. Python 3.x
     2. MySQL Server
     3. Required Python packages (mysql-connector-python, requests, tkinter)
